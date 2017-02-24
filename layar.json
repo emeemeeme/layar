@@ -2,17 +2,85 @@
   "errorCode": 0, 
   "errorString": "ok", 
   "hotspots": [
+    
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.0787819,
-          "lon": -96.7444669000000296
+          "lat": 17.074046, 
+          "lon": -96.757219
         }
       }, 
       "id": 1, 
       "text": {
-        "title": "This is a basic POI"
+        "title": "Plaza Bella"
       }
-    }], 
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.0782882,
+          "lon": -96.7189187
+        }
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "Plaza Mazari"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat":  17.039358,
+          "lon": -96.711961
+        }
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "Plaza del Valle"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.042667,
+          "lon": -96.715386
+        }
+      }, 
+      "id": 4, 
+      "text": {
+        "title": "Plaza Oaxaca"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.067460,
+          "lon": -96.694666
+        }
+      }, 
+      "id": 5, 
+      "text": {
+        "title": "Macro Plaza"
+      }
+    },
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 17.065409,
+          "lon": -96.723856
+        }
+      }, 
+      "id": 6, 
+      "text": {
+        "title": "Plaza Sto. Domingo"
+      }
+    }
+  
+  ], 
   "layer": "ccomercialqo6q"
 }
