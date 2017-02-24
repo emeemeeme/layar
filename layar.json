@@ -15,6 +15,7 @@
       },
       "id": 1, 
       "text": {
+        "description": "Plaza de Montoya", 
         "title": "Plaza Bella"
       }
     },
@@ -31,6 +32,7 @@
       },
       "id": 2, 
       "text": {
+        "description": "Plaza de Reforma", 
         "title": "Plaza Mazari"
       }
     },
@@ -47,6 +49,7 @@
       },
       "id": 3, 
       "text": {
+        "description": "Plaza de Candiani", 
         "title": "Plaza del Valle"
       }
     },
@@ -63,6 +66,7 @@
       },
       "id": 4, 
       "text": {
+        "description": "Plaza de Candiani", 
         "title": "Plaza Oaxaca"
       }
     },
@@ -79,6 +83,7 @@
       },
       "id": 5, 
       "text": {
+        "description": "Plaza de Sta. Lucia", 
         "title": "Macro Plaza"
       }
     },
@@ -95,6 +100,7 @@
       },
       "id": 6, 
       "text": {
+        "description": "Plaza del Centro", 
         "title": "Plaza Sto. Domingo"
       }
     }
