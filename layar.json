@@ -11,7 +11,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazabella.png"
+        //"url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazabella.png"
       },
       "id": 1, 
       "text": {
@@ -28,7 +28,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazamazari.png"
+       // "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazamazari.png"
       },
       "id": 2, 
       "text": {
@@ -45,7 +45,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazadelvalle.png"
+       // "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazadelvalle.png"
       },
       "id": 3, 
       "text": {
@@ -79,7 +79,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/macroplaza.png"
+        //"url": "https://raw.githubusercontent.com/emeemeeme/layar/master/macroplaza.png"
       },
       "id": 5, 
       "text": {
@@ -96,7 +96,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazastodomingo.png"
+        //"url": "https://raw.githubusercontent.com/emeemeeme/layar/master/plazastodomingo.png"
       },
       "id": 6, 
       "text": {
@@ -114,7 +114,7 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/ito.png"
+       // "url": "https://raw.githubusercontent.com/emeemeeme/layar/master/ito.png"
       },
       "id": 7, 
       "text": {
